@@ -75,3 +75,8 @@ span,
   color: wheat;
  
 }
+#centered {
+  margin-left: 33%;
+  margin-right: 33%;
+  text-align: center;
+}
